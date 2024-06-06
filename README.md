@@ -2,7 +2,9 @@
 
 This project is to show BANK MANAGEMENT
 SYSTEM using HTML,CSS,PHP,JS .
-![image](https://github.com/vaish0726/Bank_management_website/assets/76163051/dcbb9bf8-a661-4b10-a9c9-5494c64cb1fb)
+![Picture1](https://github.com/vaish0726/Bank_management_website/assets/76163051/6dfe43a8-91a4-48ad-be8a-852a4c43d20b)
+
+
 
 
 DESCRIPTION
@@ -14,7 +16,8 @@ provide to the Bureau of the Fiscal Service.
 BMS also provides analytical tools to
 review, and approve compensation,
 budgets.
-![image](https://github.com/vaish0726/Bank_management_website/assets/76163051/f555b2f5-16ae-4066-9371-87f5fa283936)
+![Picture2](https://github.com/vaish0726/Bank_management_website/assets/76163051/b086c6d4-6f60-4954-98d9-e8c7994d7fdf)
+
 
 
 
@@ -32,7 +35,8 @@ account, deposit/withdraw the cash from his account,
 also to view reports of all accounts present. The
 following presentation provides the specification for the
 system.
-![image](https://github.com/vaish0726/Bank_management_website/assets/76163051/432305ed-ca1b-463c-a507-cdab3f453235)
+![Picture3](https://github.com/vaish0726/Bank_management_website/assets/76163051/9ef8c2f7-889c-4c33-8aed-44d09b522ce6)
+
 
 CONCLUSION
 
